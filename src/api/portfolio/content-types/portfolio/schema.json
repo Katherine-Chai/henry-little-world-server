@@ -4,16 +4,14 @@
   "info": {
     "singularName": "portfolio",
     "pluralName": "portfolios",
-    "displayName": "portfolio"
+    "displayName": "portfolio",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
-    "cssId": {
-      "type": "string"
-    },
     "name": {
       "type": "string"
     },
