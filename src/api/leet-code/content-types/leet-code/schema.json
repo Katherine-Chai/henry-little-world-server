@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "leet_codes",
+  "info": {
+    "singularName": "leet-code",
+    "pluralName": "leet-codes",
+    "displayName": "LeetCode",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "difficulty": {
+      "type": "string",
+      "regex": "[\"\"]"
+    },
+    "title": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "solution": {
+      "type": "richtext"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
